@@ -22,12 +22,23 @@ I'm a recent grad in **Otautahi CHCH NZ** 🌍, with a focus on **data science**
 
 ### 🛠️ Some Tools I Work With:
 
-- **Languages**: Python, JS, SQL, C, C++, Java, TypeScript  
-- **Front-End**: React, HTML, CSS  
-- **Big Data**: Spark  
-- **Data Science**: R, Power BI  
-- **Databases**: SQL, NoSQL  
+- ![Python](https://img.shields.io/badge/Python-3.9-blue)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+- ![SQL](https://img.shields.io/badge/SQL-Database-blue)
+- ![C](https://img.shields.io/badge/C-language-black)
+- ![C++](https://img.shields.io/badge/C%2B%2B-language-blue)
+- ![Java](https://img.shields.io/badge/Java-11-orange)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-4.3-blue)
+- ![React](https://img.shields.io/badge/React-17-blue)
+- ![HTML](https://img.shields.io/badge/HTML5-white)
+- ![CSS](https://img.shields.io/badge/CSS3-blue)
+- ![Spark](https://img.shields.io/badge/Apache%20Spark-3.0-orange)
+- ![R](https://img.shields.io/badge/R-4.0-blue)
+- ![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-orange)
+- ![SQL Database](https://img.shields.io/badge/SQL%20Database-grey)
+- ![NoSQL](https://img.shields.io/badge/NoSQL-green)
+
 
 ---
 
-Let’s build awesome things together! 💡
+Get in touch over on my linkedin for collaborations or lunch invites!
