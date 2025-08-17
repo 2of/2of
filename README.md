@@ -62,11 +62,13 @@ I'm a recent grad in **Otautahi CHCH NZ** 🌍, with a focus on **data science**
 - **[Regression Models & Regularization (STAT448)](https://github.com/2of/University-Of-Canterbury-2024-STAT448/tree/main)**  
   Data cleaning, regression model fitting, LASSO and Ridge regression, and basic TensorFlow neural networks/CNNs.
 
+There's more in repos. I typically keep all course work unless it feels that it's an issue for faculty to have that floating around publically. 
 
 Older (from my undergrad):
 
 [Rest Server (NODEJS)](https://github.com/2of/SENG365-2020-Server) | [C HTTP 1.0 Downloader](https://github.com/2of/ENCE360) | [Large Data project 'Can we settle unrest by changing what's in the media'](https://github.com/2of/Data301---Big-Data-Computing-University-of-Canterbury-)
 
+See Repos for more
 ---
 
 Get in touch over on my linkedin for collaborations or lunch invites!
