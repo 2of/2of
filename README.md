@@ -15,10 +15,13 @@ I'm a recent grad in **Otautahi CHCH NZ** 🌍, with a focus on **data science**
 
 - **💡 [Master's Project: Deep Learning for Suburb-Scale GeoLocalization](https://github.com/2of/Deep-Learning-City-Scale-GeoLocalization-Model)**  
 - **🚀 [That Time My Chrome Extension Was on the Reddit Frontpage](https://github.com/2of/No-More-Marketplace-Chrome)**  
-- **🎨 [Front-End Portfolio Site](https://github.com/2of/site)**  
+- **🎨 [Front-End Portfolio Site](https://github.com/2of/Portfolio-site)**  
 - **♟️ [Using All the Wrong AI and ML Methods to Make Bad Chess Bots](Link)**  
 
 ---
+
+### 🧑🏻‍💻 'Portfolio' site
+[2of.io](https://2of.io)
 
 ### 🛠️ Some Tools I Work With:
 
