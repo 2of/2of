@@ -20,7 +20,7 @@ I'm a recent grad in **Otautahi CHCH NZ** 🌍, with a focus on **data science**
 
 ---
 
-### 🧑🏻‍💻 'Portfolio' site
+###  'Portfolio' site
 [2of.io](https://2of.io)
 
 ### 🛠️ Some Tools I Work With:
@@ -41,6 +41,31 @@ I'm a recent grad in **Otautahi CHCH NZ** 🌍, with a focus on **data science**
 - ![SQL Database](https://img.shields.io/badge/SQL%20Database-grey)
 - ![NoSQL](https://img.shields.io/badge/NoSQL-green)
 
+
+
+
+### Selection of Uni Work:
+## University of Canterbury Projects – 2024
+
+- **[Large-scale Precipitation Data Processing](https://github.com/2of/University-Of-Canterbury-DATA420-2024/tree/main)**  
+  Hadoop, HDFS, and parallelized processing for handling large precipitation datasets.
+
+- **[Real-time Gesture Interface](https://github.com/2of/University-Of-Canterbury-COSC428-2024)**  
+  Gesture recognition using RGB cameras and machine learning for real-time interaction.
+
+- **[Deep Learning & Neural Networks](https://github.com/2of/University-Of-Canterbury-COSC440-2024/tree/main)**  
+  CNN AutoEncoder, Perceptron from scratch, TensorFlow CNN implementations, and deep learning experiments.
+
+- **[Statistical Learning with R (STAT462)](https://github.com/2of/University-Of-Canterbury-STAT462-2024/tree/main)**  
+  Regression analysis, tree-based methods for categorization, and applied R code.
+
+- **[Regression Models & Regularization (STAT448)](https://github.com/2of/University-Of-Canterbury-2024-STAT448/tree/main)**  
+  Data cleaning, regression model fitting, LASSO and Ridge regression, and basic TensorFlow neural networks/CNNs.
+
+
+Older (from my undergrad):
+
+[Rest Server (NODEJS)](https://github.com/2of/SENG365-2020-Server) | [C HTTP 1.0 Downloader](https://github.com/2of/ENCE360) | [Large Data project 'Can we settle unrest by changing what's in the media'](https://github.com/2of/Data301---Big-Data-Computing-University-of-Canterbury-)
 
 ---
 
