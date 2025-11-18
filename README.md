@@ -21,7 +21,7 @@ I'm a recent grad in **Otautahi CHCH NZ** 🌍, with a focus on **data science**
 ---
 
 ###  'Portfolio' site
-[2of.io](https://2of.io)
+[thingies.dev](https://thingies.dev)
 
 ### 🛠️ Some Tools I Work With:
 
