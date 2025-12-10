@@ -14,7 +14,8 @@ I'm a recent grad in **Otautahi CHCH NZ** 🌍, with a focus on **data science**
 ### 🔥 Notable Repos:
 
 - **💡 [Master's Project: Deep Learning for Suburb-Scale GeoLocalization](https://github.com/2of/Deep-Learning-City-Scale-GeoLocalization-Model)**  
-- **🚀 [That Time My Chrome Extension Was on the Reddit Frontpage](https://github.com/2of/No-More-Marketplace-Chrome)**  
+- **🚀 [That Time My Chrome Extension Was on the Reddit Frontpage](https://github.com/2of/No-More-Marketplace-Chrome)**
+- - **♟️ [Make Mac WFH a bit happier with an automatic config tool that tracks what you're plugged in to. Set a work and home profile](Link)**  
 - **🎨 [Front-End Portfolio Site](https://github.com/2of/Portfolio-site)**  
 - **♟️ [Using All the Wrong AI and ML Methods to Make Bad Chess Bots](Link)**  
 
